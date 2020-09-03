@@ -1,8 +1,3 @@
-# exilirator
-## Elixirator Backend Task
-
-Congratulations! 
-
 You have received a contract from NASA for software application, which
 will help to calculate fuel required for the flight. The goal of this application is to calculate
 fuel to launch from one planet of the Solar system, and to land on another planet of the
